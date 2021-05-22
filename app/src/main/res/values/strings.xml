@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">買味</string>
+
+    <string name="content_description">image</string>
+    <string name="title_login">帳號登入</string>
+    <string name="et_hint_email_id">Email</string>
+    <string name="et_hint_password">密碼</string>
+    <string name="lbl_forgot_password">忘記密碼?</string>
+    <string name="btn_lbl_login">登入</string>
+    <string name="don_t_have_an_account">沒有帳號嗎?</string>
+    <string name="register"><u>註冊</u></string>
+
+    <string name="create_an_account">建立帳號</string>
+
+    <string name="hint_last_name">姓</string>
+    <string name="hint_first_name">名</string>
+    <string name="et_hint_confirm_password">確認密碼</string>
+
+    <string name="i_agree_to_the_terms_and_condition">我同意 <u> 使用者條款 </u></string>
+    <string name="btn_lbl_register">註冊</string>
+
+    <string name="already_have_an_account">您已有帳號?</string>
+    <string name="login"><u>登入</u></string>
+
+    <string name="err_msg_enter_last_name">請輸入您的姓</string>
+    <string name="err_msg_enter_first_name">請輸入您的大名</string>
+    <string name="err_msg_enter_email">請打入您的email.</string>
+    <string name="err_msg_enter_password">請打入密碼.</string>
+    <string name="err_msg_enter_confirm_password">請重打密碼再次確認</string>
+    <string name="err_msg_password_and_confirm_password_mismatch">密碼與再次輸入的不符合</string>
+    <string name="err_msg_agree_terms_and_condition">請同意使用者條款</string>
+
+    <string name="please_wait">處理中&#8230;</string>
+
+    <string name="title_forgot_password">忘記密碼?</string>
+    <string name="forgot_password_title_description">請輸入您的"電子郵件"繼續重設動作</string>
+    <string name="btn_lbl_submit">送出</string>
+    <string name="email_sent_success">\"重設信件已寄到您的信箱! \"</string>
+    <string name="register_success">您已註冊完畢.</string>
+
+    <string name="title_complete_profile">完成填寫會員資訊</string>
+    <string name="et_hint_mobile_number">手機號碼</string>
+    <string name="rb_lbl_male">男</string>
+    <string name="rb_lbl_female">女</string>
+    <string name="btn_lbl_save">儲存</string>
+
+    <string name="read_storage_permission_denied">資料存取錯誤</string>
+    <string name="image_selection_failed">圖片選擇錯誤</string>
+    <string name="err_msg_enter_mobile_number">請輸入手機號碼</string>
+    <string name="msg_profile_update_success">資料更新完成</string>
+    <!--    <string name="title_activity_dashboard">MainActivity</string>-->
+    <string name="title_orders">訂單</string>
+    <string name="title_dashboard">賣場</string>
+    <string name="title_products">上架商品</string>
+    <string name="please_click_back_again_to_exit">在按返回鍵關閉程式</string>
+    <string name="action_settings">Settings</string>
+
+    <!--  Settings String-->
+    <string name="title_settings">設定</string>
+    <string name="lbl_edit">編輯</string>
+    <string name="lbl_addresses">地址</string>
+    <string name="btn_lbl_logout">登出</string>
+    <string name="title_edit_profile">編輯個人資料</string>
+    <!--  Add Product String-->
+    <string name="action_add_product">新增產品</string>
+
+    <string name="title_add_product">產品新增</string>
+    <string name="et_hint_product_title">產品名稱</string>
+    <string name="et_hint_product_price">價格 (NT)</string>
+    <string name="et_hint_product_description">產品描述</string>
+    <string name="et_hint_product_quantity">產品數量</string>
+
+    <string name="err_msg_select_product_image">請加入產品圖片</string>
+    <string name="err_msg_enter_product_title">請輸入產品名稱</string>
+    <string name="err_msg_enter_product_price">請輸入產品價格</string>
+    <string name="err_msg_enter_product_description">請描述您的商品</string>
+    <string name="err_msg_enter_product_quantity">請輸入產品數量</string>
+
+    <string name="product_uploaded_success_message">產品上傳完畢</string>
+    <string name="no_products_added_yet">無商品，開始上架商品吧!</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="no_dashboard_item_found">新店開張，現無商品</string>
+
+    <string name="product_delete_success_message">商品成功移除!</string>
+    <string name="delete_dialog_title">移除</string>
+    <string name="delete_dialog_message">您確定要移除商品?</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+
+    <!--  For product Detail-->
+    <string name="title_product_details">商品內容</string>
+    <string name="lbl_product_description">商品描述</string>
+    <string name="lbl_product_details_stock_quantity">數量</string>
+
+    <string name="btn_lbl_add_to_cart">加入購物車</string>
+    <string name="success_message_item_added_to_cart">商品加入購物車</string>
+
+    <string name="btn_lbl_go_to_cart">前往購物車</string>
+
+    <string name="title_my_cart">購物車</string>
+    <string name="no_cart_item_found">購物車內無商品</string>
+    <string name="lbl_subtotal">小計</string>
+    <string name="lbl_shipping_charge">運費</string>
+    <string name="lbl_total_amount">總金額</string>
+    <string name="btn_lbl_checkout">結帳</string>
+    <string name="action_cart">我的購物車</string>
+
+    <string name="lbl_out_of_stock">缺貨</string>
+    <string name="msg_item_removed_successfully">商品移除成功</string>
+
+    <string name="msg_for_available_stock">無法增加超過庫存量</string>
+
+    <string name="title_address_list">地址列表</string>
+    <string name="no_address_found">無地址</string>
+    <string name="lbL_add_address">增加地址</string>
+
+    <string name="title_add_address">新增地址</string>
+    <string name="hint_full_name">全名</string>
+    <string name="hint_phone_number">電話號碼</string>
+    <string name="hint_address">地址</string>
+    <string name="hint_zip_code">郵政區號</string>
+    <string name="hint_additional_note">備註</string>
+    <string name="hint_other_details">其他資料</string>
+    <string name="lbl_home">住家</string>
+    <string name="lbl_office">公司</string>
+    <string name="lbl_other">其他</string>
+
+
+    <string name="err_msg_please_enter_full_name">請輸入全名</string>
+    <string name="err_msg_please_enter_phone_number">請輸入電話號碼</string>
+    <string name="err_msg_please_enter_address">請輸入地址</string>
+    <string name="err_msg_please_enter_zip_code">請輸入郵政區號</string>
+    <string name="err_msg_please_enter_other_details">請輸入其他資料</string>
+
+    <string name="err_your_address_added_successfully">成功新增地址</string>
+
+    <string name="title_edit_address">編輯地址</string>
+    <string name="btn_lbl_update">更新</string>
+    <string name="msg_your_address_updated_successfully">您的地址已順利更新!</string>
+
+    <string name="err_your_address_deleted_successfully">您的地址已順利刪除!</string>
+    <string name="title_select_address">選擇地址</string>
+
+    <string name="title_checkout">結帳</string>
+    <string name="checkout_lbl_product_items">產品項目</string>
+    <string name="checkout_lbl_selected_address">送往地址</string>
+    <string name="checkout_lbl_items_receipt">產品發票</string>
+    <string name="lbl_payment_mode">付費方法</string>
+    <string name="lbl_cash_on_delivery">貨到付款</string>
+    <string name="btn_lbl_place_order">下訂單</string>
+
+    <string name="no_orders_placed_yet">無訂單</string>
+
+    <string name="title_my_order_details">訂單資料</string>
+    <string name="order_details_lbl">訂單資訊</string>
+    <string name="order_details_lbl_order_id">訂單ID</string>
+    <string name="order_details_lbl_order_date">訂單建立時間</string>
+    <string name="order_details_lbl_order_status">訂單狀態</string>
+    <string name="order_status_pending">待辦中</string>
+    <string name="order_details_lbl_shipping_address">送貨地址</string>
+
+    <string name="order_status_in_process">運送中</string>
+    <string name="order_status_delivered">已送達</string>
+
+    <string name="title_sold_products">賣出商品</string>
+    <string name="no_products_sold_out_yet">無賣出商品</string>
+
+    <string name="title_sold_product_details">已賣出商品資料</string>
+</resources>

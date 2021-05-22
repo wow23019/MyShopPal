@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9688ed01-6de1-424c-84ed-7394c3e4ae18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MyShopPal" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MyShopPal" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MyShopPal" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rnaNYau43xJeVZrZ4L9jyY8MTB" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_4_API_30" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-05-02T12:34:32.130Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-viewC:/Users/atomi/AndroidStudioProjects/MyShopPal_Version_13/MyShopPal_Version_13/app/src/main/java/com/myshoppal/utils/MSPButton.kt_SELECTED" value="MSPButton" />
+    <property name="android-custom-viewC:/Users/atomi/AndroidStudioProjects/MyShopPal_Version_13/MyShopPal_Version_13/app/src/main/java/com/myshoppal/utils/MSPRadioButton.kt_SELECTED" value="MSPRadioButton" />
+    <property name="android-custom-viewC:/Users/atomi/AppData/Local/Android/Sdk/sources/android-30/android/widget/TextView.java_SELECTED" value="TextView" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="multi-representation-previewC:/Users/atomi/AndroidStudioProjects/MyShopPal_Version_13/MyShopPal_Version_13/app/src/main/java/com/myshoppal/utils/MSPButton.kt_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/atomi/AndroidStudioProjects/MyShopPal_Version_13/MyShopPal_Version_13/app/src/main/java/com/myshoppal/utils/MSPRadioButton.kt_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/atomi/AppData/Local/Android/Sdk/sources/android-30/android/widget/TextView.java_selected" value="Custom views" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.myshoppal.ui.activities.activities" />
+      <recent name="com.myshoppal.ui.activities" />
+      <recent name="com.myshoppal.ui.activities.ui.fragments.activities" />
+      <recent name="com.myshoppal.ui.activities.ui.fragments" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.myshoppal.ui.activities" />
+      <recent name="com.myshoppal.ui.fragments" />
+      <recent name="com.myshoppal.ui.adapters" />
+      <recent name="com.myshoppal.utils" />
+    </key>
+    <key name="android.template.848508301">
+      <recent name="com.myshoppal.ui.activities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\atomi\AndroidStudioProjects\MyShopPal_Version_13\MyShopPal_Version_13\app\src\main\res\drawable" />
+      <recent name="C:\Users\atomi\AndroidStudioProjects\MyShopPal_Version_13\MyShopPal_Version_13\app\src\main\res\layout" />
+      <recent name="C:\Users\atomi\AndroidStudioProjects\MyShopPal_Version_13\MyShopPal_Version_13\app\src\main\res\drawable-v24" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\atomi\AndroidStudioProjects\MyShopPal_Version_13\MyShopPal_Version_13\app\src\main\res\layout" />
+      <recent name="C:\Users\atomi\AndroidStudioProjects\MyShopPal_Version_13\MyShopPal_Version_13\app\src\main\res\drawable-v24" />
+    </key>
+    <key name="android.template.-679958920">
+      <recent name="com.myshoppal.ui.activities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MyShopPal.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyShopPal_Version_13 [signingReport]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9688ed01-6de1-424c-84ed-7394c3e4ae18" name="Default Changelist" comment="" />
+      <created>1619614267574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619614267574</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="136" key="#Inspections" timestamp="1620058001196">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state x="470" y="136" key="#Inspections/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1620058001196" />
+    <state x="630" y="188" key="#com.intellij.ide.util.MemberChooser" timestamp="1620156958044">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state x="630" y="188" key="#com.intellij.ide.util.MemberChooser/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1620156958044" />
+    <state x="274" y="393" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1619979329344">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state x="274" y="393" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1619979329344" />
+    <state x="574" y="218" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620161328535">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state x="574" y="218" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1620161328535" />
+    <state x="574" y="218" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/57.0.1574.918/1921.-457.979.1264/-639.-1440.2175.1182@57.0.1574.918" timestamp="1619668166439" />
+    <state x="622" y="257" width="513" height="430" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1619979225903">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state x="622" y="257" width="513" height="430" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1619979225903" />
+    <state x="622" y="257" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/57.0.1574.918/1921.-457.979.1264/-639.-1440.2175.1182@57.0.1574.918" timestamp="1619664207764" />
+    <state x="49" y="20" width="1590" height="905" maximized="true" key="AVDManager" timestamp="1620074976236">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state x="49" y="20" width="1590" height="905" maximized="true" key="AVDManager/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1620074976236" />
+    <state x="49" y="20" width="1590" height="905" key="AVDManager/57.0.1574.918/1921.-457.979.1264/-639.-1440.2175.1182@57.0.1574.918" timestamp="1619661986090" />
+    <state x="424" y="227" key="AndroidCreateResourceDirectoryDialog" timestamp="1619664103714">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state x="424" y="227" key="AndroidCreateResourceDirectoryDialog/57.0.1574.918/1921.-457.979.1264/-639.-1440.2175.1182@57.0.1574.918" timestamp="1619664103714" />
+    <state x="647" y="346" key="AndroidCreateResourceFileDialog" timestamp="1620156399313">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state x="647" y="346" key="AndroidCreateResourceFileDialog/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1620156399313" />
+    <state x="647" y="346" key="AndroidCreateResourceFileDialog/57.0.1574.918/1921.-457.979.1264/-639.-1440.2175.1182@57.0.1574.918" timestamp="1619666883768" />
+    <state x="902" y="253" key="AndroidCreateXmlResourceDialog" timestamp="1620200784337">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state x="902" y="253" key="AndroidCreateXmlResourceDialog/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1620200784337" />
+    <state x="682" y="261" key="AndroidCreateXmlResourceDialog/57.0.1574.918/1921.-457.979.1264/-639.-1440.2175.1182@57.0.1574.918" timestamp="1619893918303" />
+    <state x="461" y="168" key="FileChooserDialogImpl" timestamp="1621309445038">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="461" y="168" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1621309445038" />
+    <state x="624" y="227" key="FileChooserDialogImpl/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1620202077040" />
+    <state x="624" y="227" key="FileChooserDialogImpl/57.0.1574.918/1921.-457.979.1264/-639.-1440.2175.1182@57.0.1574.918" timestamp="1619887892102" />
+    <state width="1530" height="125" key="GridCell.Tab.0.bottom" timestamp="1620161375964">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state width="1530" height="125" key="GridCell.Tab.0.bottom/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1620161375964" />
+    <state width="1531" height="92" key="GridCell.Tab.0.bottom/57.0.1574.918/1921.-457.979.1264/-639.-1440.2175.1182@57.0.1574.918" timestamp="1619669890135" />
+    <state width="1530" height="125" key="GridCell.Tab.0.center" timestamp="1620161375964">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state width="1530" height="125" key="GridCell.Tab.0.center/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1620161375964" />
+    <state width="1531" height="92" key="GridCell.Tab.0.center/57.0.1574.918/1921.-457.979.1264/-639.-1440.2175.1182@57.0.1574.918" timestamp="1619669890135" />
+    <state width="1530" height="125" key="GridCell.Tab.0.left" timestamp="1620161375964">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state width="1530" height="125" key="GridCell.Tab.0.left/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1620161375964" />
+    <state width="1531" height="92" key="GridCell.Tab.0.left/57.0.1574.918/1921.-457.979.1264/-639.-1440.2175.1182@57.0.1574.918" timestamp="1619669890134" />
+    <state width="1530" height="125" key="GridCell.Tab.0.right" timestamp="1620161375964">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state width="1530" height="125" key="GridCell.Tab.0.right/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1620161375964" />
+    <state width="1531" height="92" key="GridCell.Tab.0.right/57.0.1574.918/1921.-457.979.1264/-639.-1440.2175.1182@57.0.1574.918" timestamp="1619669890135" />
+    <state x="345" y="116" key="SettingsEditor" timestamp="1619672070307">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state x="345" y="116" key="SettingsEditor/57.0.1574.918/1921.-457.979.1264/-639.-1440.2175.1182@57.0.1574.918" timestamp="1619672070307" />
+    <state x="-187" y="-1060" width="1345" height="664" key="dock-window-1" timestamp="1620161956200">
+      <screen x="-639" y="-1440" width="2175" height="1182" />
+    </state>
+    <state x="-187" y="-1060" width="1345" height="664" key="dock-window-1/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1620161956200" />
+    <state x="685" y="241" key="refactoring.ChangeSignatureDialog" timestamp="1619641222700">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state x="685" y="241" key="refactoring.ChangeSignatureDialog/57.0.1574.918/1921.-457.979.1264/-639.-1440.2175.1182@57.0.1574.918" timestamp="1619641222700" />
+    <state x="500" y="214" key="run.anything.popup" timestamp="1620139416363">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state x="500" y="214" key="run.anything.popup/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1620139416363" />
+    <state x="505" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1620202366915">
+      <screen x="57" y="0" width="1574" height="918" />
+    </state>
+    <state x="505" y="212" width="672" height="678" key="search.everywhere.popup/57.0.1574.918/-639.-1440.2175.1182/1921.-457.979.1264@57.0.1574.918" timestamp="1620202366915" />
+    <state x="507" y="213" width="672" height="678" key="search.everywhere.popup/57.0.1574.918/1921.-457.979.1264/-639.-1440.2175.1182@57.0.1574.918" timestamp="1619888712049" />
+  </component>
+</project>
